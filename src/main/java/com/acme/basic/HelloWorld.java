@@ -4,6 +4,7 @@ public class HelloWorld {
 
   void sayHello() {
     System.out.println("Hello World!");
+    System.out.println("Hello Strangers World!");
   }
 
   void notCovered() {
